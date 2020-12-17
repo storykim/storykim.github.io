@@ -14,7 +14,7 @@ layout: default
 # Education
 * **Korea Advanced Institute of Science and Technology** (Mar 2013 ~ Aug 2020)
   * B.S. in Computer Science
-  * GPA : 4.02 / 4.3
+  * GPA : 4.02 / 4.3 (Second highest GPA; Summa cum laude)
 
 * **Technical University of Munich** (Oct 2019 ~ Mar 2020)
   * Exchange Student

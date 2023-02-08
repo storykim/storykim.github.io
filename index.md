@@ -2,7 +2,7 @@
 layout: default
 ---
 # Profile
-* Software Engineer @Google
+* Senior Software Engineer @Google
 
 |         |           |
 |:-------------|:------------------|
@@ -36,8 +36,9 @@ layout: default
   * Studied on pairwise comparison algorithm based on the PageRank algorithm and graphical probabilistic model.
 
 # Work Experience
-* Software Engineer @Google (Jul 2020 ~ Current)
-  * Google Search
+* Senior Software Engineer @Google (Jul 2020 ~ Current)
+  * YouTube Discovery (Aug 2021 ~ Current)
+  * Google Search (Jul 2020 ~ Aug 2021)
 * Software Engineer @Devsisters (Jan 2016 ~ Feb 2019)
   * **Game Server(CookieRun:Ovenbreak)**: Designed and implemented a game server based on HTTP API for CookieRun:Ovenbreak(CRO), which has at most 1 million daily active users. Mainly contributed to loot box system, social interactions, userdata migration, and coupon usage system.
   * **Infra Management**: Managed all server resources related to CRO including game server, back-office tools, database, logging infra, and network configurations as code using Terraform.
